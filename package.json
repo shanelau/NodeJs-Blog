@@ -10,7 +10,7 @@
     "ejs": "*",
     "express-partials": "*",
     "mongodb":"*",
-      "connect-mongo":"*",
-      "connect-flash":"*"
+    "connect-mongo":"*",
+    "connect-flash":"*"
   }
 }
